@@ -3,3 +3,4 @@ vcheck/
 .pnpm-store/
 dist/
 validate.mjs
+check-*.mjs
