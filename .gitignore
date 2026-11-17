@@ -1,0 +1,5 @@
+node_modules/
+vcheck/
+.pnpm-store/
+dist/
+validate.mjs
