@@ -2,67 +2,67 @@
   {
     "repo": "morluto/rea",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 469142
+    "stars": 470780
   },
   {
     "repo": "deepseek-ai/deepseek-harness",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 284005
+    "stars": 284527
   },
   {
     "repo": "nexu-io/open-design",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 108431
+    "stars": 108616
   },
   {
     "repo": "tt-a1i/archify",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 97911
+    "stars": 98212
   },
   {
     "repo": "tw93/Mole",
     "reason": "no package.json at repository root",
-    "stars": 75577
+    "stars": 75685
   },
   {
     "repo": "reactive-resume/reactive-resume",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 45911
+    "stars": 45936
   },
   {
     "repo": "volcengine/OpenViking",
     "reason": "no package.json at repository root",
-    "stars": 42465
+    "stars": 42515
   },
   {
     "repo": "Tencent/WeKnora",
     "reason": "no package.json at repository root",
-    "stars": 37797
+    "stars": 37874
   },
   {
     "repo": "DayuanJiang/next-ai-draw-io",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 37070
+    "stars": 37086
   },
   {
     "repo": "anywhere-labs/dsh-desktop",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 36406
+    "stars": 36480
   },
   {
     "repo": "freestylefly/awesome-gpt-image-2",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 35969
-  },
-  {
-    "repo": "yikart/AiToEarn",
-    "reason": "no package.json at repository root",
-    "stars": 28399
+    "stars": 36008
   },
   {
     "repo": "ccch1mneyyy/dsh-Go",
     "reason": "no package.json at repository root",
-    "stars": 27778
+    "stars": 28703
+  },
+  {
+    "repo": "yikart/AiToEarn",
+    "reason": "no package.json at repository root",
+    "stars": 28488
   },
   {
     "repo": "Molunerfinn/PicGo",
@@ -72,167 +72,167 @@
   {
     "repo": "titanwings/distilly",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 26673
+    "stars": 26695
   },
   {
     "repo": "walkinglabs/learn-harness-engineering",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 25525
+    "stars": 25637
   },
   {
     "repo": "awesome-dsh-plugin/awesome-dsh-plugin",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 25158
+    "stars": 25261
   },
   {
     "repo": "dataelement/dsh-desktop",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 20035
+    "stars": 20218
   },
   {
     "repo": "EverMind-AI/EverOS",
     "reason": "no package.json at repository root",
-    "stars": 13940
-  },
-  {
-    "repo": "MemTensor/MemOS",
-    "reason": "no package.json at repository root",
-    "stars": 12450
-  },
-  {
-    "repo": "dataelement/bisheng",
-    "reason": "no package.json at repository root",
-    "stars": 12372
+    "stars": 13948
   },
   {
     "repo": "nexu-io/openmotion",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 12059
+    "stars": 13493
+  },
+  {
+    "repo": "MemTensor/MemOS",
+    "reason": "no package.json at repository root",
+    "stars": 12464
+  },
+  {
+    "repo": "dataelement/bisheng",
+    "reason": "no package.json at repository root",
+    "stars": 12383
   },
   {
     "repo": "Tencent/BrowserSkill",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 10582
+    "stars": 10608
   },
   {
     "repo": "anbeime/skill",
     "reason": "no package.json at repository root",
-    "stars": 9721
+    "stars": 9755
   },
   {
     "repo": "Fei2411/DS-Bot",
     "reason": "no package.json at repository root",
-    "stars": 8422
+    "stars": 8546
   },
   {
     "repo": "YaoApp/yao",
     "reason": "no package.json at repository root",
-    "stars": 8322
+    "stars": 8328
   },
   {
     "repo": "plastic-labs/honcho",
     "reason": "no package.json at repository root",
-    "stars": 8194
+    "stars": 8207
   },
   {
     "repo": "lingfengQAQ/webnovel-writer",
     "reason": "no package.json at repository root",
-    "stars": 8016
+    "stars": 8029
   },
   {
     "repo": "Devin-AXIS/iPolloWork",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 7510
+    "stars": 7518
   },
   {
     "repo": "ZSeven-W/openpencil",
     "reason": "no package.json at repository root",
-    "stars": 7293
+    "stars": 7304
   },
   {
     "repo": "PC2005-cloud/dsh-pet",
     "reason": "no package.json at repository root",
-    "stars": 6526
+    "stars": 6584
   },
   {
     "repo": "Q00/ouroboros",
     "reason": "no package.json at repository root",
-    "stars": 6381
+    "stars": 6385
   },
   {
     "repo": "iflytek/skillhub",
     "reason": "no package.json at repository root",
-    "stars": 5449
-  },
-  {
-    "repo": "onehumanbeing/esp32-iphone-agent",
-    "reason": "no package.json at repository root",
-    "stars": 5096
+    "stars": 5428
   },
   {
     "repo": "kunkundi/crossdesk",
     "reason": "no package.json at repository root",
-    "stars": 5030
+    "stars": 5334
+  },
+  {
+    "repo": "onehumanbeing/esp32-iphone-agent",
+    "reason": "no package.json at repository root",
+    "stars": 5139
   },
   {
     "repo": "crafter-station/petdex",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 4373
+    "stars": 4374
   },
   {
     "repo": "openBitFun/OpenBitFun",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 4081
+    "stars": 4101
   },
   {
     "repo": "foryourhealth111-pixel/Vibe-Skills",
     "reason": "no package.json at repository root",
-    "stars": 3833
+    "stars": 3835
   },
   {
     "repo": "agentscope-ai/ReMe",
     "reason": "no package.json at repository root",
-    "stars": 3826
+    "stars": 3827
   },
   {
     "repo": "strukto-ai/mirage",
     "reason": "no package.json at repository root",
-    "stars": 3793
+    "stars": 3797
   },
   {
     "repo": "whiteguo233/OpenBiliClaw",
     "reason": "no package.json at repository root",
-    "stars": 3784
+    "stars": 3788
   },
   {
     "repo": "xiaobright/dsh-anchored-standard",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 3714
-  },
-  {
-    "repo": "dsh-tauri/deepseek-harness-desktop",
-    "reason": "package.json declares no dsh.bundle",
-    "stars": 3680
+    "stars": 3715
   },
   {
     "repo": "Ebony-Vinyl/EAC-Desktop",
     "reason": "no package.json at repository root",
-    "stars": 3655
+    "stars": 3693
+  },
+  {
+    "repo": "dsh-tauri/deepseek-harness-desktop",
+    "reason": "package.json declares no dsh.bundle",
+    "stars": 3687
   },
   {
     "repo": "anywhere-labs/Agents-Anywhere",
     "reason": "no package.json at repository root",
-    "stars": 3575
+    "stars": 3614
   },
   {
     "repo": "edison7009/EchoBird",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 3574
+    "stars": 3575
   },
   {
     "repo": "chuspeeism/dashi-taskboard",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 3507
+    "stars": 3512
   },
   {
     "repo": "sopaco/deepwiki-rs",
@@ -247,67 +247,67 @@
   {
     "repo": "Alisa0808/vox-director",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 2967
+    "stars": 2984
   },
   {
     "repo": "Tiger3807861189/J-Space-Cognition-Suite",
     "reason": "no package.json at repository root",
-    "stars": 2953
+    "stars": 2952
   },
   {
     "repo": "zilliztech/memsearch",
     "reason": "no package.json at repository root",
-    "stars": 2905
+    "stars": 2913
   },
   {
     "repo": "poco-ai/Agentero",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 2674
+    "stars": 2700
   },
   {
     "repo": "dream-num/univer-workspace",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 2303
+    "stars": 2248
   },
   {
     "repo": "MemTensor/memmy-agent",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 2225
+    "stars": 2227
   },
   {
     "repo": "zhuyansen/new-term-radar",
     "reason": "no package.json at repository root",
-    "stars": 2196
+    "stars": 2199
   },
   {
     "repo": "Devin-AXIS/deepseek-design",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 1902
+    "stars": 1914
   },
   {
     "repo": "Unclecheng-li/AI_Animation",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 1816
+    "stars": 1826
   },
   {
     "repo": "oceanbase/powercontext",
     "reason": "no package.json at repository root",
-    "stars": 1740
+    "stars": 1756
   },
   {
     "repo": "flizzywine/dsh-tavern",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 1679
+    "stars": 1695
   },
   {
     "repo": "hanliang97/MatrixMedia",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 1574
+    "stars": 1602
   },
   {
     "repo": "AdamPlatin123/dsh-plugin-radar",
     "reason": "no package.json at repository root",
-    "stars": 1509
+    "stars": 1508
   },
   {
     "repo": "yjl9903/AnimeGarden",
@@ -315,14 +315,14 @@
     "stars": 1413
   },
   {
-    "repo": "OpenPetsHQ/openpets",
-    "reason": "package.json declares no dsh.bundle",
-    "stars": 1410
-  },
-  {
     "repo": "ADWMC/helm-d",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 1385
+    "stars": 1403
+  },
+  {
+    "repo": "OpenPetsHQ/openpets",
+    "reason": "package.json declares no dsh.bundle",
+    "stars": 1399
   },
   {
     "repo": "0xsline/awesome-deepseek-harness",
@@ -332,7 +332,7 @@
   {
     "repo": "Anionex/agent-vision-toolkit",
     "reason": "no package.json at repository root",
-    "stars": 1265
+    "stars": 1266
   },
   {
     "repo": "mem9-ai/mem9",
@@ -352,7 +352,7 @@
   {
     "repo": "platonai/Browser4",
     "reason": "no package.json at repository root",
-    "stars": 1186
+    "stars": 1185
   },
   {
     "repo": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -360,24 +360,24 @@
     "stars": 1168
   },
   {
+    "repo": "kelai141/dsh-mobile-apk",
+    "reason": "no package.json at repository root",
+    "stars": 1116
+  },
+  {
     "repo": "paean-ai/deeptide",
     "reason": "package.json declares no dsh.bundle",
     "stars": 1112
   },
   {
-    "repo": "kelai141/dsh-mobile-apk",
-    "reason": "no package.json at repository root",
-    "stars": 1109
-  },
-  {
     "repo": "omdsh-dev/dsh-browser",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 1102
+    "stars": 1107
   },
   {
     "repo": "beiyege-01/dsh-voice-ai-girlfriend",
     "reason": "no package.json at repository root",
-    "stars": 1085
+    "stars": 1096
   },
   {
     "repo": "tong-io/tongflow",
@@ -397,22 +397,27 @@
   {
     "repo": "PicGo/PicGo-Core",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 998
+    "stars": 997
   },
   {
     "repo": "Electricitysheep/dsh-handbook",
     "reason": "no package.json at repository root",
-    "stars": 985
+    "stars": 988
   },
   {
     "repo": "freestylefly/wesight",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 976
+    "stars": 975
   },
   {
     "repo": "ningbainb/deepseek-harness-desktop",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 939
+    "stars": 946
+  },
+  {
+    "repo": "BotHarness/DeepSeekBot",
+    "reason": "package.json declares no dsh.bundle",
+    "stars": 937
   },
   {
     "repo": "mindscale-noah/MindMemOS",
@@ -425,24 +430,14 @@
     "stars": 934
   },
   {
-    "repo": "BotHarness/DeepSeekBot",
-    "reason": "package.json declares no dsh.bundle",
-    "stars": 930
-  },
-  {
     "repo": "wecode-ai/Wegent",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 892
+    "stars": 893
   },
   {
     "repo": "Aisland-SJL/dsh-worktable",
     "reason": "no package.json at repository root",
-    "stars": 886
-  },
-  {
-    "repo": "vostride/agent-qa",
-    "reason": "package.json declares no dsh.bundle",
-    "stars": 862
+    "stars": 887
   },
   {
     "repo": "Clarklevis1995/dsh-mobile",
@@ -450,14 +445,19 @@
     "stars": 824
   },
   {
+    "repo": "vostride/agent-qa",
+    "reason": "package.json declares no dsh.bundle",
+    "stars": 819
+  },
+  {
     "repo": "zenstory-ai/oh-story-dsh",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 796
+    "stars": 805
   },
   {
     "repo": "chenxiachan/thoughtdag",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 795
+    "stars": 797
   },
   {
     "repo": "yyh-001/DSH-X",
@@ -467,27 +467,27 @@
   {
     "repo": "himovo/movo",
     "reason": "no package.json at repository root",
-    "stars": 756
+    "stars": 762
   },
   {
     "repo": "myYangyunfan/dsh_desktop",
     "reason": "no package.json at repository root",
-    "stars": 756
+    "stars": 757
   },
   {
     "repo": "Awesome-AI-Pedia/Awesome-AI-Pedia",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 736
+    "stars": 739
   },
   {
     "repo": "fufankeji/deepseek-harness-studio",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 731
+    "stars": 732
   },
   {
     "repo": "yejiming/MuseAI",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 717
+    "stars": 718
   },
   {
     "repo": "hellowind777/helloagents",
@@ -507,7 +507,7 @@
   {
     "repo": "lencx/Minke",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 702
+    "stars": 703
   },
   {
     "repo": "Clearailhc/clearai-dsh",
@@ -517,7 +517,7 @@
   {
     "repo": "agentic-os-org/ANOLISA",
     "reason": "no package.json at repository root",
-    "stars": 682
+    "stars": 683
   },
   {
     "repo": "ccch1mneyyy/working-activity",
@@ -527,22 +527,27 @@
   {
     "repo": "LivXue/dsh-plugin-shop",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 666
+    "stars": 667
   },
   {
     "repo": "chainbase-labs/Agentkey",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 656
+    "stars": 652
+  },
+  {
+    "repo": "ai-timon/timon",
+    "reason": "no package.json at repository root",
+    "stars": 630
   },
   {
     "repo": "daha1216/dsh-adult-tension",
     "reason": "no package.json at repository root",
-    "stars": 611
+    "stars": 618
   },
   {
     "repo": "gitroomhq/postiz-agent",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 577
+    "stars": 580
   },
   {
     "repo": "1692775560/dsh-Mimir-Academic-research",
@@ -557,26 +562,26 @@
   {
     "repo": "EthanYoQ/Invoice-Downloader",
     "reason": "no package.json at repository root",
-    "stars": 553
+    "stars": 555
   },
   {
     "repo": "Bytedesk/bytedesk",
     "reason": "no package.json at repository root",
-    "stars": 540
+    "stars": 539
   },
   {
     "repo": "bruc3van/awesome-dsh-plugin-pro",
     "reason": "no package.json at repository root",
-    "stars": 528
-  },
-  {
-    "repo": "xiaods/k8e",
-    "reason": "no package.json at repository root",
-    "stars": 518
+    "stars": 529
   },
   {
     "repo": "aerovato/operator-memory",
     "reason": "package.json declares no dsh.bundle",
+    "stars": 520
+  },
+  {
+    "repo": "xiaods/k8e",
+    "reason": "no package.json at repository root",
     "stars": 518
   },
   {
@@ -607,12 +612,12 @@
   {
     "repo": "vibeinging/dsh-desktop",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 495
+    "stars": 496
   },
   {
     "repo": "houyanchao/chatgpt-gemini-timeline",
     "reason": "no package.json at repository root",
-    "stars": 476
+    "stars": 477
   },
   {
     "repo": "zhuzhaoyun/Molio",
@@ -627,7 +632,7 @@
   {
     "repo": "xcisxc29/dsh-wechat",
     "reason": "version undefined is not exact SemVer",
-    "stars": 440
+    "stars": 442
   },
   {
     "repo": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -637,22 +642,22 @@
   {
     "repo": "FishBottle7/opencode2dsh",
     "reason": "version undefined is not exact SemVer",
-    "stars": 406
+    "stars": 410
   },
   {
     "repo": "imsai-sh/awesome-deepseek-harness-plugins",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 405
+    "stars": 407
   },
   {
     "repo": "hikariming/dshfind",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 404
+    "stars": 405
   },
   {
     "repo": "xing-shuyin/pi-web-ui",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 394
+    "stars": 396
   },
   {
     "repo": "Minara-AI/minara-skills",
@@ -660,9 +665,9 @@
     "stars": 392
   },
   {
-    "repo": "tingly-dev/tingly-box",
+    "repo": "ECNU/EduWork",
     "reason": "no package.json at repository root",
-    "stars": 382
+    "stars": 383
   },
   {
     "repo": "libukai/awesome-deepseek-harness",
@@ -670,9 +675,9 @@
     "stars": 382
   },
   {
-    "repo": "ECNU/EduWork",
+    "repo": "tingly-dev/tingly-box",
     "reason": "no package.json at repository root",
-    "stars": 381
+    "stars": 382
   },
   {
     "repo": "morluto/jacobian",
@@ -682,7 +687,12 @@
   {
     "repo": "zhu1090093659/dsh-trading",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 362
+    "stars": 365
+  },
+  {
+    "repo": "omagents/omagents",
+    "reason": "package.json declares no dsh.bundle",
+    "stars": 361
   },
   {
     "repo": "alaliqing/claude-paper",
@@ -690,19 +700,14 @@
     "stars": 360
   },
   {
-    "repo": "omagents/omagents",
-    "reason": "package.json declares no dsh.bundle",
-    "stars": 360
+    "repo": "sorsama/deepseek-harness-mobile",
+    "reason": "no package.json at repository root",
+    "stars": 354
   },
   {
     "repo": "automagik-si/genie",
     "reason": "package.json declares no dsh.bundle",
     "stars": 354
-  },
-  {
-    "repo": "sorsama/deepseek-harness-mobile",
-    "reason": "no package.json at repository root",
-    "stars": 345
   },
   {
     "repo": "techflag/workdsh",
@@ -712,12 +717,12 @@
   {
     "repo": "delta-box/deltabox-lite",
     "reason": "no package.json at repository root",
-    "stars": 338
+    "stars": 339
   },
   {
     "repo": "zhaoolee/notes",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 335
+    "stars": 336
   },
   {
     "repo": "runzhliu/welink",
@@ -725,14 +730,14 @@
     "stars": 325
   },
   {
-    "repo": "acryldev/acryl",
-    "reason": "package.json declares no dsh.bundle",
-    "stars": 324
-  },
-  {
     "repo": "Ayuilos/Miffan",
     "reason": "package.json declares no dsh.bundle",
     "stars": 316
+  },
+  {
+    "repo": "polang233/dsh-plugin-index",
+    "reason": "package.json declares no dsh.bundle",
+    "stars": 293
   },
   {
     "repo": "sopaco/terrain",
@@ -745,9 +750,9 @@
     "stars": 286
   },
   {
-    "repo": "polang233/dsh-plugin-index",
+    "repo": "Justin-sky/ai-art-engine",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 282
+    "stars": 285
   },
   {
     "repo": "See-Sol-Lab/DeepSeekGUI",
@@ -765,14 +770,14 @@
     "stars": 279
   },
   {
-    "repo": "Justin-sky/ai-art-engine",
-    "reason": "package.json declares no dsh.bundle",
-    "stars": 278
-  },
-  {
     "repo": "pax-beehive/dsh-hub-cli",
     "reason": "package.json declares no dsh.bundle",
     "stars": 274
+  },
+  {
+    "repo": "acryldev/acryl",
+    "reason": "package.json declares no dsh.bundle",
+    "stars": 273
   },
   {
     "repo": "ZJU-REAL/Polaris",
@@ -790,14 +795,19 @@
     "stars": 258
   },
   {
-    "repo": "scarletkc/Hatoba",
-    "reason": "package.json declares no dsh.bundle",
-    "stars": 251
-  },
-  {
     "repo": "TencentCloud/tencentmeeting-cli",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 251
+    "stars": 253
+  },
+  {
+    "repo": "scarletkc/Hatoba",
+    "reason": "package.json declares no dsh.bundle",
+    "stars": 252
+  },
+  {
+    "repo": "slow-stack/mneme",
+    "reason": "package.json declares no dsh.bundle",
+    "stars": 243
   },
   {
     "repo": "morluto/flameox",
@@ -805,29 +815,24 @@
     "stars": 243
   },
   {
-    "repo": "slow-stack/mneme",
+    "repo": "JialaoLiu/dsh-baton",
     "reason": "package.json declares no dsh.bundle",
     "stars": 242
   },
   {
     "repo": "h4dex/opc-nexus",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 241
-  },
-  {
-    "repo": "JialaoLiu/dsh-baton",
-    "reason": "package.json declares no dsh.bundle",
-    "stars": 240
+    "stars": 242
   },
   {
     "repo": "Windsander/Mebular",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 233
+    "stars": 234
   },
   {
     "repo": "LiarMTTT/TavernWeave",
     "reason": "no package.json at repository root",
-    "stars": 224
+    "stars": 226
   },
   {
     "repo": "tencentmusic/modus",
@@ -837,7 +842,12 @@
   {
     "repo": "2BingLing/dsh-market",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 215
+    "stars": 216
+  },
+  {
+    "repo": "AIpRoBuilder/FlowX",
+    "reason": "no package.json at repository root",
+    "stars": 212
   },
   {
     "repo": "leenkcool/Blue-Whale-Harness",
@@ -860,19 +870,19 @@
     "stars": 205
   },
   {
-    "repo": "AIpRoBuilder/FlowX",
-    "reason": "no package.json at repository root",
-    "stars": 204
+    "repo": "EricWang1358/dsh-web-studyhub",
+    "reason": "dsh.bundle declares no patch file",
+    "stars": 195
   },
   {
     "repo": "beancookie/awesome-dsh-plugin",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 194
+    "stars": 195
   },
   {
     "repo": "Vladimir-Human/ru-marketplace-mcp",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 193
+    "stars": 194
   },
   {
     "repo": "Finderchangchang/brewreel",
@@ -905,17 +915,17 @@
     "stars": 173
   },
   {
+    "repo": "morluto/leantoken",
+    "reason": "no package.json at repository root",
+    "stars": 173
+  },
+  {
     "repo": "summer1238/dsh-remote-web-gateway",
     "reason": "package.json declares no dsh.bundle",
     "stars": 170
   },
   {
     "repo": "MiaoQichuan/new-litigation-visualization",
-    "reason": "no package.json at repository root",
-    "stars": 170
-  },
-  {
-    "repo": "morluto/leantoken",
     "reason": "no package.json at repository root",
     "stars": 170
   },
@@ -927,6 +937,11 @@
   {
     "repo": "T-Auto/dsh-std",
     "reason": "package.json declares no dsh.bundle",
+    "stars": 164
+  },
+  {
+    "repo": "regrevia/Envoy",
+    "reason": "no package.json at repository root",
     "stars": 164
   },
   {
@@ -945,18 +960,13 @@
     "stars": 157
   },
   {
-    "repo": "regrevia/Envoy",
-    "reason": "no package.json at repository root",
-    "stars": 156
+    "repo": "william-jin-cmu/cetus",
+    "reason": "package.json declares no dsh.bundle",
+    "stars": 152
   },
   {
     "repo": "volcengine/ark-cli",
     "reason": "no package.json at repository root",
-    "stars": 151
-  },
-  {
-    "repo": "william-jin-cmu/cetus",
-    "reason": "package.json declares no dsh.bundle",
     "stars": 151
   },
   {
@@ -967,22 +977,12 @@
   {
     "repo": "GDWhisper/dsh-ntr",
     "reason": "dsh.bundle declares no patch file",
-    "stars": 142
+    "stars": 144
   },
   {
     "repo": "dphmoblie/deepseek-harness-android",
     "reason": "package.json declares no dsh.bundle",
     "stars": 140
-  },
-  {
-    "repo": "wess09/DeepSeekHarnessDesktop",
-    "reason": "package.json declares no dsh.bundle",
-    "stars": 136
-  },
-  {
-    "repo": "dqsjqian/Aria",
-    "reason": "no package.json at repository root",
-    "stars": 136
   },
   {
     "repo": "Leslie-SSS/seeWxapkg",
@@ -995,9 +995,19 @@
     "stars": 136
   },
   {
+    "repo": "wess09/DeepSeekHarnessDesktop",
+    "reason": "package.json declares no dsh.bundle",
+    "stars": 136
+  },
+  {
+    "repo": "dqsjqian/Aria",
+    "reason": "no package.json at repository root",
+    "stars": 136
+  },
+  {
     "repo": "orziz/odai",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 133
+    "stars": 132
   },
   {
     "repo": "Akimiya-z/codex-guard",
@@ -1012,7 +1022,7 @@
   {
     "repo": "eleckoi/ElecKoi",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 129
+    "stars": 131
   },
   {
     "repo": "SkillNerds/xskill",
@@ -1047,15 +1057,15 @@
   {
     "repo": "FNOSP/fnos-dsh",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 118
+    "stars": 119
   },
   {
-    "repo": "heshengtao/exameow",
-    "reason": "package.json declares no dsh.bundle",
+    "repo": "guzhou079-arch/deepseek-harness-android",
+    "reason": "no package.json at repository root",
     "stars": 113
   },
   {
-    "repo": "Sev7eEn7/dsh-sieve",
+    "repo": "heshengtao/exameow",
     "reason": "package.json declares no dsh.bundle",
     "stars": 113
   },
@@ -1065,9 +1075,9 @@
     "stars": 113
   },
   {
-    "repo": "guzhou079-arch/deepseek-harness-android",
-    "reason": "no package.json at repository root",
-    "stars": 112
+    "repo": "Sev7eEn7/dsh-sieve",
+    "reason": "package.json declares no dsh.bundle",
+    "stars": 113
   },
   {
     "repo": "starsstreaming/beautiCode",
@@ -1078,11 +1088,6 @@
     "repo": "Sikao-Engine/KimiX",
     "reason": "no package.json at repository root",
     "stars": 111
-  },
-  {
-    "repo": "wink-run/tokenbank",
-    "reason": "no package.json at repository root",
-    "stars": 110
   },
   {
     "repo": "JingxuanC/causal-memory",
@@ -1100,6 +1105,16 @@
     "stars": 109
   },
   {
+    "repo": "wink-run/tokenbank",
+    "reason": "no package.json at repository root",
+    "stars": 109
+  },
+  {
+    "repo": "sol5766/dshm",
+    "reason": "no package.json at repository root",
+    "stars": 107
+  },
+  {
     "repo": "AIBanlv/AIBanlv-Bot",
     "reason": "package.json declares no dsh.bundle",
     "stars": 107
@@ -1110,84 +1125,14 @@
     "stars": 106
   },
   {
-    "repo": "like-study1/Oh-My-DSH",
-    "reason": "no package.json at repository root",
-    "stars": 104
-  },
-  {
-    "repo": "zuoyuan333/dsh-hybrid-workspace-v2",
-    "reason": "package.json declares no dsh.bundle",
-    "stars": 0
-  },
-  {
-    "repo": "jjjjjjjjnnjnn/dsh-triage",
-    "reason": "package.json declares no dsh.bundle",
-    "stars": 1
-  },
-  {
     "repo": "123caiji/awesome-agent-security",
     "reason": "package.json declares no dsh.bundle",
     "stars": 1
   },
   {
-    "repo": "Heqianhong1114/dsh-work-cards",
-    "reason": "package.json is not valid JSON",
-    "stars": 0
-  },
-  {
-    "repo": "zhuobichen/zhaowen-dsh",
-    "reason": "no package.json at repository root",
-    "stars": 0
-  },
-  {
-    "repo": "lmzhen/dsh-evolution",
+    "repo": "FeatherHunter/ilife",
     "reason": "package.json declares no dsh.bundle",
-    "stars": 11
-  },
-  {
-    "repo": "romany-saad/dsh-plugins",
-    "reason": "package.json declares no dsh.bundle",
-    "stars": 3
-  },
-  {
-    "repo": "tanle-mtr/dsh-plogin-plugin-recommender",
-    "reason": "package.json declares no dsh.bundle",
-    "stars": 3
-  },
-  {
-    "repo": "scotthuang/agent-knock-knock",
-    "reason": "package.json declares no dsh.bundle",
-    "stars": 7
-  },
-  {
-    "repo": "weiwenhao/dudu",
-    "reason": "package.json declares no dsh.bundle",
-    "stars": 0
-  },
-  {
-    "repo": "majiayu000/dsh-plugin-registry",
-    "reason": "package.json declares no dsh.bundle",
-    "stars": 4
-  },
-  {
-    "repo": "FabianActor/dsh-lil-whale",
-    "reason": "no package.json at repository root",
-    "stars": 0
-  },
-  {
-    "repo": "changhao213141/dsh-folder-cards",
-    "reason": "package.json is not valid JSON",
-    "stars": 1
-  },
-  {
-    "repo": "QuestMeet/questmeet-skill",
-    "reason": "no package.json at repository root",
-    "stars": 24
-  },
-  {
-    "repo": "mjnhmd/dsh-zspace",
-    "reason": "no package.json at repository root",
-    "stars": 0
+    "stars": 25
   },
   {
     "repo": "modenicheng/dsh-annotate",
@@ -1195,23 +1140,43 @@
     "stars": 0
   },
   {
-    "repo": "rukazax/deepseek_harness",
+    "repo": "uchiha086/dshremote",
     "reason": "no package.json at repository root",
     "stars": 0
   },
   {
-    "repo": "yankeguo/dsh-devlead",
+    "repo": "harrylabsj/kiwi",
+    "reason": "package.json declares no dsh.bundle",
+    "stars": 23
+  },
+  {
+    "repo": "dreamor/MemVault",
+    "reason": "package.json declares no dsh.bundle",
+    "stars": 2
+  },
+  {
+    "repo": "Hao0311/dsh-toolbox",
     "reason": "package.json declares no dsh.bundle",
     "stars": 0
   },
   {
-    "repo": "MjxUpUp/Forge",
-    "reason": "no package.json at repository root",
-    "stars": 2
+    "repo": "hrygo/heluo-forge",
+    "reason": "package.json declares no dsh.bundle",
+    "stars": 8
+  },
+  {
+    "repo": "STARDUSTLC666/dsh-suite",
+    "reason": "dsh.bundle declares no patch file",
+    "stars": 4
   },
   {
     "repo": "hust-open-atom-club/oh-dsh",
     "reason": "dsh.bundle.patch not found at HEAD:dist/cordis.patch.yml",
     "stars": 324
+  },
+  {
+    "repo": "ifrankwang/openspec-agents",
+    "reason": "dsh.bundle.patch not found at HEAD:dsh/cordis.patch.yml",
+    "stars": 8
   }
 ]
